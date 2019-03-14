@@ -9,3 +9,12 @@ h2{
   font-size: 32px;
   font-style: oblique;
 }
+body{
+  text-align: center;
+  font-size: 28px;
+}
+.container{
+  width: 50%;
+  padding: 40px;
+  margin: 100px auto;
+}
